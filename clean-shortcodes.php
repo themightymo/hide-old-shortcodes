@@ -4,7 +4,7 @@
  * Plugin URI: https://themightymo.com
  * Description: Removes specified shortcodes tags but keeps their inner content.
  * Version: 1.0.1
- * Author: Your Name
+ * Author: The Mighty Mo! Design Co. LLC
  * Author URI: https://themightymo.com
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html

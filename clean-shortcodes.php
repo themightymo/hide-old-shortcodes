@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: Shortcode Cleaner
- * Plugin URI: https://example.com/shortcode-cleaner
+ * Plugin Name: Hide all Fusion Builder and Visual Composer Shortcodes (Cleaner)
+ * Plugin URI: https://themightymo.com
  * Description: Removes specified shortcodes tags but keeps their inner content.
  * Version: 1.0.1
  * Author: Your Name
- * Author URI: https://example.com
+ * Author URI: https://themightymo.com
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: shortcode-cleaner
